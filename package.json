@@ -1,0 +1,25 @@
+{
+  "name": "food_delivery_back",
+  "version": "1.0.0",
+  "description": "*Projeto universitário*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victor-Diniz-Dev/food_delivery_back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victor-Diniz-Dev/food_delivery_back/issues"
+  },
+  "homepage": "https://github.com/Victor-Diniz-Dev/food_delivery_back#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.38.0",
+    "eslint": "^9.38.0",
+    "supabase": "^2.54.11"
+  }
+}
